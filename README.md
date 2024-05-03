@@ -6,4 +6,4 @@ This extension was inspired by the `Go to Symbol...` feature but unfortunately i
 This extension adds a new Command Palette option `Go to HTML comment...` (ctrl+shift+r) that displays all HTML comments found in the current file and allows searching and jumping to a specific comment.
 
 Screenshot:
-\!\[screenshot\]\(images/screenshot.jpg\)
+\!\[screenshot\]\(images/screenshot.gif\)
