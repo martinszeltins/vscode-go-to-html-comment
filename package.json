@@ -2,7 +2,9 @@
   "name": "go-to-html-comment",
   "displayName": "Go to HTML comment",
   "description": "Quickly search and jump to an HTML comment in the current file.",
-  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.89.0"
   },

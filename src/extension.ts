@@ -2,8 +2,6 @@ import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
 	let disposable = vscode.commands.registerCommand('go-to-html-comment.start', async () => {
-		vscode.window.showInformationMessage('Hello World from Go to HTML comment!');
-        
         const editor = vscode.window.activeTextEditor;
         
         if (!editor) {
